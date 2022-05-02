@@ -29,15 +29,15 @@
 // console.log(`Episode 2 veridict: ${verdict}`);
 
 //Episode 3
-let murderer = "Professor Plum";
+// let murderer = "Professor Plum";
 
-const declareMurderer = function () {
-  let murderer = "Mrs. Peacock";
-  return `The murderer is ${murderer}.`;
-};
+// const declareMurderer = function () {
+//   let murderer = "Mrs. Peacock";
+//   return `The murderer is ${murderer}.`;
+// };
 
-const firstVerdict = declareMurderer();
-console.log("First Verdict: ", firstVerdict);
+// const firstVerdict = declareMurderer();
+// console.log("First Verdict: ", firstVerdict);
 
-const secondVerdict = `The murderer is ${murderer}.`;
-console.log("Second Verdict: ", secondVerdict);
+// const secondVerdict = `The murderer is ${murderer}.`;
+// console.log("Second Verdict: ", secondVerdict);
